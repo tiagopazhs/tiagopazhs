@@ -4,7 +4,7 @@ Hi 👋 My name is Tiago
 Full Stack Engineer
 -------------------
 
-A track record of delivering innovative and user-centric applications. With 5+ years of hands-on experience in developing software across various platforms, APIs, third-party integrations, and databases. Proficient in utilizing a wide range of technologies and frameworks. Committed to delivering the best user experience and implementing reusable code.
+Experience in developing innovative applications. Skilled in various platforms, APIs, and integrations. Specialized in technologies and frameworks, focused on UX and reusable code.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [tiago.paz](http://cv.codeshop.com.br/)
