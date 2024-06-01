@@ -1,10 +1,10 @@
 Hi 👋 I am Tiago
 ======================
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [tiagopaz.gd@gmail.com](mailto:tiagopaz.gd@gmail.com)
-* 🤝  I'm open to collaborating on Volunteer and Open Source projects
-* ⚡  Coffee and travels lover
+* 🌍  I'm based in Brazil.
+* ✉️  You can contact me at [tiagopaz.gd@gmail.com].(mailto:tiagopaz.gd@gmail.com)
+* 🤝  I'm open to collaborating on Volunteer and Open Source projects.
+* ⚡  Coffee and travels lover.
 
 
 ### Socials
